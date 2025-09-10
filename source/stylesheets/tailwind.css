@@ -13,7 +13,8 @@
   --breakpoint-2k: 120rem;
   --breakpoint-4k: 240rem;
 
-  --font-logo: "Merriweather", serif;  
-  --font-sans: "Inter", sans-serif; 
+  --font-heading: "Montserrat Alternates", sans-serif;  
+  --font-body: "Open Sans", sans-serif; 
 }
+
 
