@@ -2,8 +2,8 @@
 @plugin "@tailwindcss/typography";
 
 @theme {
-  --color-primary: #0E2A38;   /* Dark navy */
-  --color-accent: #F4A259;    /* Orange accent */
+  --color-primary: #0E2635;   /* Dark navy */
+  --color-accent: #A8763D;    /* Orange accent */
   --color-gray-light: #F8F8F8;
   --color-gray-medium: #DADADA;
   --color-gray-dark: #888888;
