@@ -1,0 +1,19 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-primary: #0E2A38;   /* Dark navy */
+  --color-accent: #F4A259;    /* Orange accent */
+  --color-gray-light: #F8F8F8;
+  --color-gray-medium: #DADADA;
+  --color-gray-dark: #888888;
+  --color-white: #FFFFFF;
+  --color-black: #1A1A1A;
+
+  --breakpoint-2k: 120rem;
+  --breakpoint-4k: 240rem;
+
+  --font-logo: "Merriweather", serif;  
+  --font-sans: "Inter", sans-serif; 
+}
+
